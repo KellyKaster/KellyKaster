@@ -1,9 +1,10 @@
+<img src="https://github.com/KellyKaster/KellyKaster/blob/main/HeaderMe.jpg" width="1000px">
+
 ### Hi there 👋
 
 <!--
 **KellyKaster/KellyKaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<font color='blue'> Nós somos aquilo que fazemos repetidamente.Excelência é um hábito! ⚡ </font>
+
+|<img src="https://github.com/KellyKaster/KellyKaster/blob/main/HI.gif" width="300px">|**Bem Vindos!!**   |
+|---|---|
